@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "version_code": 2,
+  "release_date": "19/10/2026",
+  "title": "Bản cập nhật v1.0.1: Native Gantt & Báo cáo Hiện trường",
+  "changelog": [
+    "Thiết kế lại toàn bộ Sơ đồ Gantt dạng Native 100% cực kỳ sắc nét và mượt mà",
+    "Thêm Module Báo cáo hiện trường có Camera chụp ảnh và tích chọn 5 pha nghiệm thu",
+    "Thêm tính năng tự động kiểm tra và thông báo phiên bản mới",
+    "Tối ưu hiệu năng tải dữ liệu offline không cần mạng"
+  ],
+  "download_url": "https://github.com/haingoctoday/bvien-hue/releases/latest/download/bvien_hue.apk",
+  "web_url": "https://bvien-hue.pages.dev/app.html"
+}
